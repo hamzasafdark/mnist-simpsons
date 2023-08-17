@@ -1,3 +1,3 @@
-### MNIST-SIMPSONS 
+# MNIST-SIMPSONS 
 
-# Git repository for experimenting with mnist-simpsons dataset. 
+### Git repository for experimenting with mnist-simpsons dataset. 
